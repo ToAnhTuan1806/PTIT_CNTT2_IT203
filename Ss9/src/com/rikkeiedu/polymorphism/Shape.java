@@ -1,0 +1,5 @@
+package com.rikkeiedu.polymorphism;
+
+public abstract  class Shape {
+    public abstract double calculateArea();
+}
